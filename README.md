@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="left"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ardianreshani&label=Profile%20views" alt="ardianreshani" /> </p> </p>
 
-<!--
-**ardianreshani/ardianreshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, Ardian here👋
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on Freelancing Projects
+- 🌱 I’m currently learning advanced Javascript and Firebase.
+- 👯 I’m looking to collaborate on cool Web-Development Projects!
+- 🤔 I’m looking for any position for Junior Developer without a degree in #CS.? ?
+- 💬 Ask me about UI Desing, Front-end Development ..,
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ardian-reshani-726147145/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardianreshani&hide=java,html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardianreshani&theme=react)](https://github.com/anuraghazra/github-readme-stats)
