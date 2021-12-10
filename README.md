@@ -5,8 +5,8 @@
 - 🔭 I'm currently working on Freelancing Projects
 - 🌱 I’m currently learning advanced Javascript and Firebase.
 - 👯 I’m looking to collaborate on cool Web-Development Projects!
-- 🤔 I’m looking for any position for Junior Developer without a degree in #CS.? ?
-- 💬 Ask me about UI Desing, Front-end Development ..,
+- 🤔 I’m looking for any position for Junior Front End Developer without a degree in #CS.? ?
+- 💬 Ask me about UI Desing, Front End Development ...
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ardian-reshani-726147145/
 
 ## &#x1f4c8; My GitHub Stats
