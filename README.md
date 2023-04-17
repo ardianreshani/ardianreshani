@@ -1,5 +1,3 @@
-<p align="left"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ardianreshani&label=Profile%20views" alt="ardianreshani" /> </p> </p>
-
 # Hi there, Ardian here👋
 
 - 🔭 I'm currently working on Freelancing Projects
