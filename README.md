@@ -1,10 +1,4 @@
-# Hi there, Ardian here👋
-
-- 🔭 I'm currently working on Freelancing Projects
-- 🌱 I’m currently learning backend PHP/Laravel.
-- 👯 I’m looking to collaborate on cool Web-Development Projects!
-- 💬 Ask me about UI Desing, Front End Development ...
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ardian-reshani-726147145/
+# Hi there, Ardian here
 
 ## &#x1f4c8; My GitHub Stats
 
